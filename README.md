@@ -30,3 +30,9 @@ For the Lot 2 T-Test the P value is 0.6072. With a significance level of .05 we 
 ![Lot 3 T Test](/resources/l3_ttest.png)
 For the Lot 3 T-Test the P value is 0.04168. With a significance level of .05 we can reject the null hypothesis. We assume there is a statistical difference between the sample mean of Lot 3 and 1500.
 
+## Study Design: MechaCar vs Competition
+
+To compare the performance of MachaCar vs a competitor I would compare the MPG for similar models of car from MachaCar to is competitor. I recommend a two-sample t-tests. In this analysis I would compare the mean MPG of a similar model cars from each company. The null hypnosis would be that there is not a significant difference in MPG between the similar model cars of each company. The alternate hypnosis is that there is a significant difference in MPG for similar models of car. To run this test, I would need data on car models and MPG for both companies. I would need multiple datapoints for each model of car. 
+![image](https://user-images.githubusercontent.com/75285458/114333692-88172e00-9b0e-11eb-9018-baeab07d4fc6.png)
+
+
