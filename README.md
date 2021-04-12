@@ -9,7 +9,9 @@
 
 
 ## Summary Statistics on Suspension Coils
+Total Summary
 ![ Total Summary](/resources/total_summary.png) 
+Lot Summary
 ![Lot Summary](/resources/lot_summary.png)
 According to the data, Lot 3 does not meet the requirements that the suspension coil must not exceed a variance of 100 pounds per square inch because the Variance of Lot 3 is 170.30. Overall, the 3 lots combined do meet this requirement. When considering all lots the variance is 67.30. 
 
